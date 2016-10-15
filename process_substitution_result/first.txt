@@ -1,0 +1,1 @@
+process substitution for argument.
